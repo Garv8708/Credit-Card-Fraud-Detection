@@ -16,7 +16,7 @@ This project uses machine learning to detect fraudulent credit card transactions
 
 Due to GitHub file size limits, these large files are stored externally:
 
-- 📥 [Download Power BI Dashboard (PBIX)]([https://www.dropbox.com/s/abc123/credit_dashboard.pbix?dl=1](https://www.dropbox.com/scl/fi/e3b72302n2nur3g3mbk4e/Credit-Card.pbix?rlkey=krj201ezop3dawop58zwg5tvp&st=51o78de2&dl=0))
+- 📥 [Download Power BI Dashboard (PBIX)]([https://www.dropbox.com/s/abc123/credit_dashboard.pbix?dl=1](https://www.dropbox.com/scl/fi/e3b72302n2nur3g3mbk4e/Credit-Card.pbix?rlkey=krj201ezop3dawop58zwg5tvp&st=51o78de2&dl=0)
 - 📥 [Download Dataset CSV](https://www.dropbox.com/scl/fi/ptu4k87i30i85fc5180wy/creditcard.csv?rlkey=brk4pt45dylq6m5ryujt8mccc&st=cklntk6x&dl=0)
 
 ---
